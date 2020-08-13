@@ -8,13 +8,8 @@ This is the first file in the repository.
 asdfasdfasdfasdfasdfasdfasdfasdfasdfdsa
 
 
+Files in website: 
 
+Index.html
 
-asdfasdfasdfsadf
-sdfasdfasdfasdf
-asdfasdfasdf
-asdfasdfasdf
-asdfasdf
-
-BABY
 
